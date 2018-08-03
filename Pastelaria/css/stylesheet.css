@@ -1,0 +1,33 @@
+
+#sidebar{
+  width: 20%;
+  height: 90%;
+  margin:50px auto;
+  padding: 10px;
+  border: 2px solid #E3E3E3;
+  float: right;
+  margin: 50px auto;
+}
+
+#conteudo_principal .botao {
+  margin: 50px 25px;
+
+}
+
+#conteudo_principal{
+  width:1000px;
+  height: 450px;
+  left: 500px;
+  top: 250px;
+}
+
+#downbar{
+  position: absolute;
+  bottom: 30px;
+  width: 45%;
+  height: 50%;
+  margin:50px auto;
+  padding: 10px;
+  border: 2px solid #E3E3E3;
+  margin: 50px 20px;
+}

@@ -1,0 +1,157 @@
+body{
+  font-family: Arial;
+  font-size: 14px;
+  color: #000;
+}
+
+#exterior{
+  margin: 0 auto;
+  width:60%;
+}
+
+#cabecalho{
+  padding: 0.5em;
+  clear: both;
+}
+
+#cabecalho h1{
+  color: #C60;
+}
+
+#navegacao{
+  background: #4286f4;
+  padding: 0.2em 0;
+  clear: both;
+  text-align: right;
+}
+
+#navegacao a{
+  padding: 0.5em;
+  color: white;
+}
+
+#navegacao a:hover{
+  color: orange;
+  text-decoration: underline;
+  cursor: auto;
+}
+
+#menu{
+  width:	20%;
+  font-size: 0.9em;
+  padding: 0;
+  float: left;
+}
+
+#favoritos{
+  background-color: orange;
+  padding: 5px;
+  margin-top: 1em;
+  background-color: #F8F8F8;
+  border: 1px;
+  border-color: #C5C5C5;
+  border-style: solid;
+}
+
+#favoritos h3 {
+  color: #036;
+  display: block;
+  font-size: 1.17em;
+
+}
+
+#favoritos p {
+  display: block;
+  color: #999;
+  text-align: center;
+}
+
+
+#grupos{
+  padding: 5px;
+  margin-top: 0.5em;
+  background-color: #FFF6CD;
+  border: 1px;
+  border-style: dashed;
+  border-color: #C60;
+}
+
+#grupos input {
+  width: 70%;
+}
+
+#grupos h3{
+  color: #036;
+}
+
+#grupos a{
+  color: #C60;
+}
+
+#grupos p{
+  text-align: center;
+}
+
+#conteudo{
+  float: right;
+  width: 78%;
+}
+
+#principal{
+  float: left;
+  width: 73%;
+}
+
+.artigo1{
+  margin-bottom: 1em;
+  text-align: center;
+}
+
+#principal h2, #principal a{
+  color: #C60;
+}
+
+#secundario{
+  margin: 0.2em 0;
+  float: left;
+  width: 27%;
+}
+
+#pedidos input{
+  width:48%;
+  height: 50px;
+}
+
+#pedidos{
+  text-align: center;
+}
+
+#secundario h2{
+  background-color: #DB905C;
+  padding: 0.2em;
+  font-size: 1em;
+  color: #FFF;
+}
+
+#secundario p{
+  margin: 0.2em 0;
+  padding: 0px 5px;
+}
+
+#rodape{
+  padding: 0.1em 0;
+  margin-top: 1em;
+  border-top: 1px solid #C5C5C5;
+  border-bottom: 1px solid #C5C5C5;
+  background: #F8F8F8;
+  clear: both;
+}
+
+#rodape p{
+  text-align: right;
+  font-size: 0.8em;
+}
+
+div {
+  display: block;
+}
